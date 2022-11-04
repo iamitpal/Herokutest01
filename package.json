@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "heroku": "^7.65.0",
+    "json-server": "^0.17.1"
+  },
+  "name": "herokutest01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamitpal/Herokutest01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamitpal/Herokutest01/issues"
+  },
+  "homepage": "https://github.com/iamitpal/Herokutest01#readme",
+  "description": ""
+}
